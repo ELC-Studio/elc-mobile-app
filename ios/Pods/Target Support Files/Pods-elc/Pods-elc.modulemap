@@ -1,0 +1,6 @@
+module Pods_elc {
+  umbrella header "Pods-elc-umbrella.h"
+
+  export *
+  module * { export * }
+}

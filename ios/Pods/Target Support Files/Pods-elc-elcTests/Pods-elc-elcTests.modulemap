@@ -1,0 +1,6 @@
+module Pods_elc_elcTests {
+  umbrella header "Pods-elc-elcTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
